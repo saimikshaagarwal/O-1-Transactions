@@ -1,8 +1,8 @@
 The problem statement:
--Set and track personalized financial goals (vacation, car, emergency fund, etc.), calculating required savings and sending reminders. 
--Predict loan repayment schedules without machine learning by analyzing loan amounts, interest rates, and payment history.              
--Detect suspicious transactions and send alerts based on predefined financial behavior patterns
-
+- **Set and track** personalized financial goals (vacation, car, emergency fund, etc.), calculating required savings and sending reminders. 
+- **Predict loan repayment schedules** without machine learning by analyzing loan amounts, interest rates, and payment history. 
+- **Detect suspicious transactions** and send alerts based on predefined financial behavior patterns
+  
 The **Smart Finance Assistant** helps users manage their finances by:
 1. Setting and tracking personalized financial goals (e.g., vacations, cars, emergency funds) with savings tracking.
 2. Predicting loan repayment schedules without using machine learning—based on loan amount, interest rate, and paid history.
